@@ -11,7 +11,7 @@
 @implementation YSSDK
 
 - (void)sayHello{
-    NSLog(@"Hello Everyone 0.0.2");
+    NSLog(@"Hello Everyone 0.0.3");
 }
 
 @end
